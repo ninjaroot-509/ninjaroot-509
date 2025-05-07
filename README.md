@@ -7,7 +7,7 @@
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications. 
 - :seedling: Exploring Technical Content Writing.
 - 👯 I'm interested in collaborating and contributing to open source projects.
-- :mailbox: How to reach me: [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+50943208550)
+- :mailbox: How to reach me: [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+50947929400)
 
 ### Languages 
 
@@ -27,7 +27,7 @@
 ### Connect with me via:
 <p>
   <a target="_blank"
-    href="https://wa.me/+50943208550"><img
+    href="https://wa.me/+50947929400"><img
     src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></img></a>  
   <a target="_blank"
     href="mailto:stanleycastin19@gmail.com"><img 
