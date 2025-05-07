@@ -2,7 +2,7 @@
 <h3 align="center">Full-stack Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ninjaroot-509&label=Views&color=blue&style=plastic" alt="Stanley CASTIN" /></p>
 
-![Untitled](https://maketapp.com/singleapp/upload/21-12-18%2019-42-46%20788Quizapay%20Logo.png)
+![Untitled](https://n1n24.netlify.app/assets/logo-BvaEexVp.png)
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications. 
 - :seedling: Exploring Technical Content Writing.
