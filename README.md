@@ -1,22 +1,16 @@
-<!-- MAGIC • ANIMATED • EMOTIONAL • GITHUB PROFILE README FOR @ninjaroot-509 -->
-
-<!-- Top Wave Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:7F7FD5,50:86A8E7,100:91EAE4&text=N1n24%20Dev&fontColor=ffffff&fontAlign=50&fontAlignY=35&desc=Full-stack%20Developer%20•%20Tech%20Entrepreneur&descAlign=50&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0B1220,40:00BFA6,70:00E5D4,100:0B1220&text=N1n24%20Dev&fontColor=ffffff&fontAlign=50&fontAlignY=35&desc=Full-stack%20Developer%20•%20Tech%20Entrepreneur&descAlign=50&descAlignY=60"/>
 
 <div align="center">
 
-<!-- Typing Intro -->
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=720&lines=Hi+%F0%9F%91%8B%2C+I'm+N1n24+Dev+%7C+Stanley+Castin;Django+%2B+React+%2B+Fintech+%2B+Gaming;Shipping+scalable+systems+for+real+users;Let's+build+something+meaningful+%F0%9F%9A%80" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=720&lines=Hi+%F0%9F%91%8B%2C+I'm+N1n24+%7C+Stanley+Castin;Full-stack+Developer+%26+Tech+Entrepreneur;Fintech+%7C+Gaming+%7C+AI+%7C+Education+%7C+Young+Former;Building+scalable+systems;Founder+of+Loyalto+Services;Let's+innovate+and+impact+together+%F0%9F%9A%80" alt="Typing SVG">
 </a>
 
-<!-- Profile Views -->
 <img src="https://komarev.com/ghpvc/?username=ninjaroot-509&label=Profile+Views&color=0e75b6&style=flat" alt="views"/>
 
-<!-- Brand / Logo -->
 <br/>
 <a href="https://n1n24.netlify.app" target="_blank">
-  <img src="https://n1n24.netlify.app/assets/logo-BvaEexVp.png" height="120" alt="N1n24 Logo"/>
+  <img src="https://n1n24.netlify.app/assets/logo-BvaEexVp.png" height="160" alt="N1n24 Logo"/>
 </a>
 
 </div>
@@ -35,7 +29,7 @@
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,redis,celery,nginx,ts,react,nextjs,redux,tailwind,materialui,html,css,git,github,linux,docker,aws&perline=10" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,redis,nginx,ts,react,nextjs,redux,tailwind,materialui,html,css,git,github,linux,docker,aws&perline=10" />
 </p>
 
 ---
@@ -105,9 +99,5 @@
 
 ---
 
-<!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:91EAE4,50:86A8E7,100:7F7FD5&section=footer"/>
 
-<!-- Snake animation disabled (the hosted SVG workflow is not active) -->
-<!-- If you enable an Actions workflow to generate the SVG, you can uncomment the line below. -->
-<!-- ![snake gif](https://github.com/ninjaroot-509/ninjaroot-509/blob/output/github-contribution-grid-snake.svg) -->
