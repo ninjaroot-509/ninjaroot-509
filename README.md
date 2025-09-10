@@ -58,9 +58,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ninjaroot-509&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ninjaroot-509&theme=blue-green" width="48%" />
+  <img src="https://github-readme-streak-stats-pa.vercel.app?user=ninjaroot-509&theme=radical&hide_border=true" height="180px" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninjaroot-509&layout=compact&theme=radical&hide_border=true" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ninjaroot-509&show_icons=true&theme=radical&include_all_commits=true&hide_border=true" height="180px" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninjaroot-509&layout=compact&hide=css,html&theme=tokyonight" width="48%" />
-</p>
+
