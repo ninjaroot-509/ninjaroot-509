@@ -10,7 +10,7 @@
 
 <br/>
 <a href="https://n1n24.netlify.app" target="_blank">
-  <img src="https://n1n24.netlify.app/assets/logo-BvaEexVp.png" height="160" alt="N1n24 Logo"/>
+  <img src="https://n1n24.netlify.app/assets/logo-BvaEexVp.png" height="200" alt="N1n24 Logo"/>
 </a>
 
 </div>
