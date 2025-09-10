@@ -99,5 +99,5 @@
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:91EAE4,50:86A8E7,100:7F7FD5&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0B1220,40:00BFA6,70:00E5D4,100:0B1220&section=footer"/>
 
