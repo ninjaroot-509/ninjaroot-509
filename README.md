@@ -39,7 +39,7 @@
 <div align="center">
   
 **“Ultra-secure • Protect your data • Protect your transactions”**  
-**“Every click is an adventure — let’s ship.”**
+**“Every click is an adventure, let’s ship.”**
 
 </div>
 
