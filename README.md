@@ -14,7 +14,6 @@
 </a>
 
 </div>
----
 
 <a href="https://daily.dev/n1n24"><img src="https://api.daily.dev/devcards/v2/sUIGNp4K0r6ZCfdijBv9g.png?r=v02" width="356" alt="Castin Stanley's Dev Card"/></a>
 
