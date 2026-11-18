@@ -9,13 +9,11 @@
 <img src="https://komarev.com/ghpvc/?username=ninjaroot-509&label=Profile+Views&color=0e75b6&style=flat" alt="views"/>
 
 <br/>
-<a href="https://n1n24.netlify.app" target="_blank">
-  <img src="https://n1n24.netlify.app/assets/logo-BvaEexVp.png" height="200" alt="N1n24 Logo"/>
+<a href="https://n1n24.dev" target="_blank">
+  <a href="https://daily.dev/n1n24"><img src="https://api.daily.dev/devcards/v2/sUIGNp4K0r6ZCfdijBv9g.png?r=v02" width="356" alt="Castin Stanley's Dev Card"/></a>
 </a>
 
 </div>
-
-<a href="https://daily.dev/n1n24"><img src="https://api.daily.dev/devcards/v2/sUIGNp4K0r6ZCfdijBv9g.png?r=v02" width="356" alt="Castin Stanley's Dev Card"/></a>
 
 ---
 
